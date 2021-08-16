@@ -1,7 +1,7 @@
 # Site settings
 title: Cee Yang
 SEOTitle: 杨西川的博客 | Cee Yang
-header-img: img/avatar-ceeyang.jpg
+header-img: img/home-bg-o.jpg
 email: yangxichuan2016@gmail.com
 description: "Every failure is leading towards success."
 keyword: "CeeYang, ceeyang, 杨西川的博客, yangxichuan, 杨西川, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ceeyang/ceeyang.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ceeyang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
